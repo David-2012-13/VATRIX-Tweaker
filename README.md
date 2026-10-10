@@ -13,6 +13,7 @@ Key Features:
     Runs 100% locally, protecting your privacy with zero external telemetry.
 
 Give your PC a fresh speed boost with Win Tweaker!
+If you see this, feel free to film it and put it on YouTube :)
 
 Romanian:
 
@@ -26,3 +27,4 @@ Caracteristici principale:
     Funcționare complet locală, fără a afecta confidențialitatea datelor tale personale.
 
 Redă computerului tău viteza de altădată cu Win Tweaker!
+Daca vezi asta daca vrei poti sa filmezi si sa pui pe you tube :)
