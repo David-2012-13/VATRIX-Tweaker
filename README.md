@@ -14,6 +14,7 @@ Key Features:
 
 Give your PC a fresh speed boost with Win Tweaker!
 If you see this, feel free to film it and put it on YouTube :)
+Note: Windows Defender may flag or block the application as a false positive. If prompted, click “More info” and then select “Run anyway”.
 
 Romanian:
 
@@ -28,3 +29,5 @@ Caracteristici principale:
 
 Redă computerului tău viteza de altădată cu Win Tweaker!
 Daca vezi asta daca vrei poti sa filmezi si sa pui pe you tube :)
+
+Notă: Este posibil ca Windows Defender să blocheze temporar aplicația (fals pozitiv). Dacă se întâmplă acest lucru, apăsați pe „Mai multe informații” (More info) și apoi pe „Rulați oricum” (Run anyway).
