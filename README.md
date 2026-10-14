@@ -1,33 +1,31 @@
-United Kingdom:
 
-Win Tweaker is the ultimate utility tool to keep your Windows PC clean, fast, and fully optimized. Built specifically for Windows users, it provides easy control over system settings and performance enhancements.
 
-Key Features:
 
-    Clean up temporary and unnecessary system files with ease.
+⚡ Win Tweaker
 
-    Apply performance tweaks to make your computer run smoother.
+Win Tweaker este instrumentul esențial conceput pentru a menține sistemul tău Windows curat, rapid și la potențial maxim. Cu o interfață modernă și o funcționare 100% locală, îți oferă control absolut asupra performanței PC-ului tău, protejându-ți în același timp confidențialitatea.
+🚀 Caracteristici Principale
 
-    Modern, clean, and user-friendly interface.
+    🧹 Curățare Profundă: Elimină rapid fișierele temporare, cache-ul și datele inutile care ocupă spațiu prețios pe disc.
 
-    Runs 100% locally, protecting your privacy with zero external telemetry.
+    ⚡ Optimizare Inteligentă: Reglează setările sistemului pentru o viteză sporită și un timp de răspuns mult mai mic.
 
-Give your PC a fresh speed boost with Win Tweaker!
-If you see this, feel free to film it and put it on YouTube :)
-Note: Windows Defender may flag or block the application as a false positive. If prompted, click “More info” and then select “Run anyway”.
+    🎨 Interfață Modernă & Intuitivă: Un design curat și prietenos, extrem de ușor de utilizat de către orice utilizator.
 
-Romanian:
+    🔒 Confidențialitate Totală: Funcționare complet locală — datele și fișierele tale personale rămân exclusiv pe computerul tău.
 
-Win Tweaker este instrumentul ideal pentru a menține PC-ul tău curat, rapid și optimizat. Proiectat special pentru sistemele Windows, programul îți oferă un control ușor asupra setărilor de sistem și a performanței generale.
+📥 Descarcă și Instalează
 
-Caracteristici principale:
+Poți descărca cea mai recentă versiune din secțiunea de Releases a acestui repository.
 
-    Curățare eficientă a fișierelor temporare și inutile.
-    Optimizare simplă a setărilor de sistem pentru o viteză mai mare.
-    Interfață modernă, curată și extrem de ușor de utilizat.
-    Funcționare complet locală, fără a afecta confidențialitatea datelor tale personale.
+    [!NOTE]
+    Notă pentru Windows Defender: Deoarece aplicația modifică setări de sistem, este posibil să fie blocată temporar ca fals pozitiv. Pentru a o rula fără probleme:
+
+        Apasă pe „Mai multe informații” (More info).
+
+        Apasă pe „Rulați oricum” (Run anyway).
 
 Redă computerului tău viteza de altădată cu Win Tweaker!
-Daca vezi asta daca vrei poti sa filmezi si sa pui pe you tube :)
 
-Notă: Este posibil ca Windows Defender să blocheze temporar aplicația (fals pozitiv). Dacă se întâmplă acest lucru, apăsați pe „Mai multe informații” (More info) și apoi pe „Rulați oricum” (Run anyway).
+Dacă apreciezi acest proiect, nu uita să lași o ⭐ pe GitHub și să împărtășești experiența ta!
+
