@@ -3,9 +3,7 @@
 **Win Tweaker** este instrumentul esențial conceput pentru a menține sistemul tău Windows curat, rapid și la potențial maxim. Cu o interfață modernă și o funcționare 100% locală, îți oferă control absolut asupra performanței PC-ului tău, protejându-ți în același timp confidențialitatea.
 
 🌐 **[Accesează Site-ul Oficial Win Tweaker](https://wintweaker.vercel.app)**  
-*(Înlocuiește link-ul de mai sus cu adresa exactă a site-ului tău, ex: Vercel, InfinityFree sau domeniu propriu)*
 
----
 
 [![Previzualizare Video Win Tweaker](https://img.youtube.com/vi/iZGA8ozs9NE/maxresdefault.jpg)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
 
@@ -48,6 +46,7 @@ Poți descărca cea mai recentă versiune direct de pe **[Site-ul Oficial](https
 > Pentru a o rula fără probleme:
 > 1. Apasă pe **„Mai multe informații”** (*More info*).
 > 2. Apasă pe **„Rulați oricum”** (*Run anyway*).
+>    Virus Total il detecteaza ca fisier mailitios dar este defapt fals-pozitiv https://www.virustotal.com/gui/file/921bedce5b99ccbf4ffe95b569dea70db6ae17027ba62ee5b7696bdb0e89ba29?nocache=1
 
 ---
 
