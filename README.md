@@ -39,14 +39,13 @@
 
 ## 📥 Descarcă și Instalează
 
-Poți descărca cea mai recentă versiune direct de pe **[Site-ul Oficial](https://wintweaker.vercel.app)** sau din secțiunea **[Releases](https://github.com/utilizator/Win-Tweaker/releases)** de pe GitHub.
+Poți descărca cea mai recentă versiune direct de pe **(https://wintweaker.vercel.app)** sau din secțiunea **[Releases](https://github.com/utilizator/Win-Tweaker/releases)** de pe GitHub.
 
 > [!NOTE]
 > **Notă pentru Windows Defender:** Deoarece aplicația modifică setări de sistem, este posibil să fie detectată temporar ca un fals pozitiv.
 > Pentru a o rula fără probleme:
 > 1. Apasă pe **„Mai multe informații”** (*More info*).
 > 2. Apasă pe **„Rulați oricum”** (*Run anyway*).
->    Virus Total il detecteaza ca fisier mailitios dar este defapt fals-pozitiv https://www.virustotal.com/gui/file/921bedce5b99ccbf4ffe95b569dea70db6ae17027ba62ee5b7696bdb0e89ba29?nocache=1
 
 ---
 
