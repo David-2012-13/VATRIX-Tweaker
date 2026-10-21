@@ -1,56 +1,24 @@
-⚡ WinTweaker
-Un utilitar modern, rapid și intuitiv pentru optimizarea și personalizarea sistemului de operare Windows.
+Win Tweaker este instrumentul esențial conceput pentru a menține sistemul tău Windows curat, rapid și la potențial maxim. Cu o interfață modernă și o funcționare 100% locală, îți oferă control absolut asupra performanței PC-ului tău, protejându-ți în același timp confidențialitatea.
 
-🎨 Prezentare Vizuală
-(Adaugă aici un screenshot sau un GIF demonstrativ cu interfața aplicației WinTweaker)
+📺 Urmărește videoclipul de prezentare pe YouTube!
+https://wintweaker.vercel.app
+🚀 Caracteristici Principale
+🧹 Curățare Profundă: Elimină rapid fișierele temporare, cache-ul și datele inutile care ocupă spațiu prețios pe disc.
+⚡ Optimizare Inteligentă: Reglează setările sistemului, dezactivează animațiile inutile și aplică optimizări pentru performanță maximă.
+🚀 Manager Startup (Nou în v1.1): Vezi și dezactivează rapid programele inutile care pornesc odată cu Windows-ul, pentru o pornire mult mai rapidă.
+🧠 Optimizare RAM (Nou în v1.1): Eliberează rapid memoria RAM pentru a reda fluiditatea sistemului tău.
+📦 Management Aplicații (Winget): Instalează și dezinstalează rapid software-ul dorit direct din interfață.
+🔒 Confidențialitate Totală: Funcționare complet locală — fără colectare de date personale.
+🆕 Ce este nou în versiunea 1.1?
+Disable Startup Programs: Mini-manager integrat pentru controlul aplicațiilor de la pornirea sistemului.
+RAM Flush / Manager Memorie: Buton rapid pentru optimizarea memoriei RAM.
+Îmbunătățiri de stabilitate și interfață grafică rafinată.
+💻 Cerințe de Sistem
+Sistem de operare: Windows 10 / Windows 11 (64-bit)
+Drepturi: Permisiuni de Administrator (necesare pentru aplicarea tweak-urilor de sistem)
+📥 Descarcă și Instalează
+Poți descărca cea mai recentă versiune direct din secțiunea Releases.
 
-✨ Funcționalități Principale
-Optimizare Performanță: Curățare fișiere temporare, optimizare RAM și gestionarea serviciilor de fundal.
-
-Personalizare Interfață: Ajustări rapide pentru interfața Windows, bara de task-uri și meniuri contextuale.
-
-Confidențialitate & Bloatware: Tăierea serviciilor neesențiale de telemetrie și eliminarea aplicațiilor inutile.
-
-Interfață Modernă: Design curat și rapid construit cu PySide6.
-
-🛠️ Tehnologii Utilizate
-Limbaj: Python 3.10+
-
-GUI Framework: PySide6 (Qt for Python)
-
-Pachetare: PyInstaller
-
-🚀 Instalare și Rulare
-Opțiunea 1: Executabil (.exe) — Recomandat
-Descarcă versiunea gata compilată direct din secțiunea Releases a repository-ului.
-
-Opțiunea 2: Rulare din codul sursă
-Clonează repository-ul:
-git clone https://github.com/your-username/WinTweaker.git
-cd WinTweaker
-
-Creează mediul virtual și instalează dependențele:
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
-Lansează aplicația:
-python main.py
-
-🤝 Contribuții
-Contribuțiile sunt binevenite! Dacă dorești să îmbunătățești proiectul:
-
-Creează un Fork al proiectului.
-
-Creează un branch nou pentru funcționalitatea ta.
-
-Trimite modificările printr-un Pull Request.
-
-📧 Contact & Suport
-Autor: David Rizea
-
-Email: rizeadavid90@gmail.com
-
-Probleme sau Sugestii: Poți deschide o sesizare în secțiunea Issues a proiectului.
-
-Creat cu pasiune de David Rizea. Licențiat sub MIT License.
+[!NOTE] Notă pentru Windows Defender: Deoarece aplicația modifică setări de sistem, este posibil să fie detectată temporar ca un fals pozitiv. Pentru a o rula fără probleme:
+Apasă pe „Mai multe informații” (More info).
+Apasă pe „Rulați oricum” (Run anyway).
