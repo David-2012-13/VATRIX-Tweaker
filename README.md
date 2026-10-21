@@ -1,60 +1,73 @@
-# ⚡ Win Tweaker v1.1
+🚀 WinTweaker
+Optimizează. Curăță. Controlează.
+WinTweaker este un utilitar modern pentru Windows creat pentru a oferi utilizatorilor control asupra sistemului lor într-un mod simplu, rapid și intuitiv.
 
-**Win Tweaker** este instrumentul esențial conceput pentru a menține sistemul tău Windows curat, rapid și la potențial maxim. Cu o interfață modernă și o funcționare 100% locală, îți oferă control absolut asupra performanței PC-ului tău, protejându-ți în același timp confidențialitatea.
+⚡ Curățare sistem
 
-🌐 **[Accesează Site-ul Oficial Win Tweaker](https://wintweaker.vercel.app)**  
+⚡ Optimizare performanță
 
+⚡ Detectare hardware
 
-[![Previzualizare Video Win Tweaker](https://img.youtube.com/vi/iZGA8ozs9NE/maxresdefault.jpg)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
+⚡ Gestionare Startup
 
-> 📺 **[Urmărește videoclipul de prezentare pe YouTube!](https://www.youtube.com/watch?v=iZGA8ozs9NE)**
+⚡ Tweaks pentru Windows
 
----
+⚡ Interfață modernă
 
-## 🚀 Caracteristici Principale
+🎯 Despre proiect
+Am început WinTweaker cu un obiectiv simplu:
 
-* **🧹 Curățare Profundă:** Elimină rapid fișierele temporare, cache-ul și datele inutile care ocupă spațiu prețios pe disc.
-* **⚡ Optimizare Inteligentă:** Reglează setările sistemului, dezactivează animațiile inutile și aplică opțiuni pentru performanță maximă.
-* **🚀 Manager Startup (Nou în v1.1):** Vezi și dezactivează rapid programele inutile care pornesc odată cu Windows-ul pentru o pornire mult mai rapidă.
-* **🧠 Optimizare RAM (Nou în v1.1):** Eliberează memoria RAM printr-un singur click pentru a reda fluiditatea sistemului tău.
-* **📦 Management Aplicații (Winget):** Instalează și dezinstalează rapid software-ul dorit direct din interfață.
-* **🔒 Confidențialitate Totală:** Funcționare complet locală — fără colectare de date personale.
+Să creez un optimizer Windows modern, gratuit și transparent, pe care eu însumi l-aș folosi zilnic.
 
----
+Proiectul este dezvoltat activ și primește constant funcții noi și îmbunătățiri.
 
-## 🆕 Ce este nou în versiunea 1.1?
+✨ Funcționalități
+✅ Curățare fișiere temporare
 
-* **Disable Startup Programs:** Mini-manager integrat pentru controlul aplicațiilor de la pornirea sistemului.
-* **RAM Flush / Manager Memorie:** Buton rapid pentru optimizarea și eliberarea memoriei RAM.
-* Îmbunătățiri de stabilitate și interfață grafică rafinată.
+✅ Detectare automată CPU, RAM și Windows
 
----
+✅ Informații despre sistem
 
-## 💻 Cerințe de Sistem
+✅ Gestionare programe Startup
 
-* **Sistem de operare:** Windows 10 / Windows 11 (64-bit)
-* **Drepturi:** Permisiuni de Administrator (necesare pentru aplicarea tweak-urilor de sistem)
+✅ Tweaks pentru performanță
 
----
+✅ Tweaks pentru confidențialitate
 
-## 📥 Descarcă și Instalează
+✅ Interfață rapidă și intuitivă
 
-Poți descărca cea mai recentă versiune direct de pe **(https://wintweaker.vercel.app)** sau din secțiunea **[Releases](https://github.com/utilizator/Win-Tweaker/releases)** de pe GitHub.
+✅ Actualizări regulate
 
-> [!NOTE]
-> **Notă pentru Windows Defender:** Deoarece aplicația modifică setări de sistem, este posibil să fie detectată temporar ca un fals pozitiv.
-> Pentru a o rula fără probleme:
-> 1. Apasă pe **„Mai multe informații”** (*More info*).
-> 2. Apasă pe **„Rulați oricum”** (*Run anyway*).
+🎥 Video de prezentare
 
----
+▶️ YouTube: https://www.youtube.com/watch?v=iZGA8ozs9NE
 
-## 🤝 Contribuții și Feedback
+🛠️ Tehnologii utilizate
+Python
+CustomTkinter
+Windows API
+🚧 Dezvoltare activă
+WinTweaker este în continuă dezvoltare.
 
-Ai găsit o problemă sau ai o idee de funcționalitate nouă?
-* Deschide un **[Issue](https://github.com/utilizator/Win-Tweaker/issues)** pe GitHub.
-* Lasă o ⭐ pe acest repository dacă proiectul îți este de folos!
+Sugestiile, ideile și raportările de erori sunt întotdeauna binevenite.
 
----
+⭐ Susține proiectul
+Dacă îți place WinTweaker:
 
-*Dezvoltat cu pasiune de Rizea David.*
+⭐ Oferă un Star repository-ului
+
+💡 Sugerează funcții noi
+
+🐛 Raportează erori
+
+📢 Distribuie proiectul
+
+⚠️ Atenție
+Unele funcții modifică setări ale sistemului Windows.
+
+Se recomandă crearea unui punct de restaurare înainte de aplicarea optimizărilor avansate.
+
+❤️ WinTweaker
+Creat cu pasiune pentru comunitatea Windows.
+
+Împreună construim un optimizer modern, gratuit și transparent.
