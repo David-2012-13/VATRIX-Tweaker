@@ -1,73 +1,72 @@
 🚀 WinTweaker
-Optimizează. Curăță. Controlează.
-WinTweaker este un utilitar modern pentru Windows creat pentru a oferi utilizatorilor control asupra sistemului lor într-un mod simplu, rapid și intuitiv.
+⚡ Reia controlul asupra Windows-ului tău!
+Windows devine mai lent.
 
-⚡ Curățare sistem
+Procesele inutile consumă resurse.
 
-⚡ Optimizare performanță
+Aplicațiile pornesc fără permisiunea ta.
 
-⚡ Detectare hardware
+Eu m-am săturat de asta.
 
-⚡ Gestionare Startup
+Așa a apărut WinTweaker.
 
-⚡ Tweaks pentru Windows
+Un proiect creat pentru a face Windows-ul mai curat, mai rapid și mai ușor de controlat.
 
-⚡ Interfață modernă
-
-🎯 Despre proiect
-Am început WinTweaker cu un obiectiv simplu:
-
-Să creez un optimizer Windows modern, gratuit și transparent, pe care eu însumi l-aș folosi zilnic.
-
-Proiectul este dezvoltat activ și primește constant funcții noi și îmbunătățiri.
-
-✨ Funcționalități
+🔥 Funcționalități
 ✅ Curățare fișiere temporare
 
-✅ Detectare automată CPU, RAM și Windows
+✅ Detectare automată hardware
 
-✅ Informații despre sistem
+✅ Gestionare Startup
 
-✅ Gestionare programe Startup
+✅ Informații complete despre sistem
 
 ✅ Tweaks pentru performanță
 
 ✅ Tweaks pentru confidențialitate
 
-✅ Interfață rapidă și intuitivă
+✅ Interfață modernă și intuitivă
 
-✅ Actualizări regulate
+🎥 Vezi WinTweaker în acțiune
+▶️ Demonstrație video:
 
-🎥 Video de prezentare
+YouTube:
+Prezentare WinTweaker
 
-▶️ YouTube: https://www.youtube.com/watch?v=iZGA8ozs9NE
+🎯 Misiunea proiectului
+Nu vreau să creez încă un optimizer plin de reclame.
 
-🛠️ Tehnologii utilizate
-Python
-CustomTkinter
-Windows API
+Nu vreau să creez încă o aplicație care promite miracole.
+
+✅ Vreau să construiesc un utilitar modern.
+
+✅ Gratuit.
+
+✅ Transparent.
+
+✅ Creat de un pasionat de Windows.
+
 🚧 Dezvoltare activă
-WinTweaker este în continuă dezvoltare.
+WinTweaker este îmbunătățit constant.
 
-Sugestiile, ideile și raportările de erori sunt întotdeauna binevenite.
+Noi funcții și optimizări sunt adăugate în fiecare versiune.
+
+Acesta este doar începutul.
 
 ⭐ Susține proiectul
-Dacă îți place WinTweaker:
+Dacă îți place proiectul:
 
-⭐ Oferă un Star repository-ului
+⭐ Oferă un Star
 
-💡 Sugerează funcții noi
+💡 Trimite idei
 
 🐛 Raportează erori
 
 📢 Distribuie proiectul
 
-⚠️ Atenție
-Unele funcții modifică setări ale sistemului Windows.
+❤️ Mulțumesc!
+WinTweaker nu este dezvoltat de o companie mare.
 
-Se recomandă crearea unui punct de restaurare înainte de aplicarea optimizărilor avansate.
+Este construit cu pasiune, dorință de învățare și ambiția de a crea un optimizer Windows pe care oricine îl poate folosi gratuit.
 
-❤️ WinTweaker
-Creat cu pasiune pentru comunitatea Windows.
-
-Împreună construim un optimizer modern, gratuit și transparent.
+🚀 Acum aventura abia începe.
