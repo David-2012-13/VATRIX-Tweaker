@@ -1,72 +1,56 @@
-🚀 WinTweaker
-⚡ Reia controlul asupra Windows-ului tău!
-Windows devine mai lent.
+⚡ WinTweaker
+Un utilitar modern, rapid și intuitiv pentru optimizarea și personalizarea sistemului de operare Windows.
 
-Procesele inutile consumă resurse.
+🎨 Prezentare Vizuală
+(Adaugă aici un screenshot sau un GIF demonstrativ cu interfața aplicației WinTweaker)
 
-Aplicațiile pornesc fără permisiunea ta.
+✨ Funcționalități Principale
+Optimizare Performanță: Curățare fișiere temporare, optimizare RAM și gestionarea serviciilor de fundal.
 
-Eu m-am săturat de asta.
+Personalizare Interfață: Ajustări rapide pentru interfața Windows, bara de task-uri și meniuri contextuale.
 
-Așa a apărut WinTweaker.
+Confidențialitate & Bloatware: Tăierea serviciilor neesențiale de telemetrie și eliminarea aplicațiilor inutile.
 
-Un proiect creat pentru a face Windows-ul mai curat, mai rapid și mai ușor de controlat.
+Interfață Modernă: Design curat și rapid construit cu PySide6.
 
-🔥 Funcționalități
-✅ Curățare fișiere temporare
+🛠️ Tehnologii Utilizate
+Limbaj: Python 3.10+
 
-✅ Detectare automată hardware
+GUI Framework: PySide6 (Qt for Python)
 
-✅ Gestionare Startup
+Pachetare: PyInstaller
 
-✅ Informații complete despre sistem
+🚀 Instalare și Rulare
+Opțiunea 1: Executabil (.exe) — Recomandat
+Descarcă versiunea gata compilată direct din secțiunea Releases a repository-ului.
 
-✅ Tweaks pentru performanță
+Opțiunea 2: Rulare din codul sursă
+Clonează repository-ul:
+git clone https://github.com/your-username/WinTweaker.git
+cd WinTweaker
 
-✅ Tweaks pentru confidențialitate
+Creează mediul virtual și instalează dependențele:
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
 
-✅ Interfață modernă și intuitivă
+Lansează aplicația:
+python main.py
 
-🎥 Vezi WinTweaker în acțiune
-▶️ Demonstrație video:
+🤝 Contribuții
+Contribuțiile sunt binevenite! Dacă dorești să îmbunătățești proiectul:
 
-YouTube:
-Prezentare WinTweaker
+Creează un Fork al proiectului.
 
-🎯 Misiunea proiectului
-Nu vreau să creez încă un optimizer plin de reclame.
+Creează un branch nou pentru funcționalitatea ta.
 
-Nu vreau să creez încă o aplicație care promite miracole.
+Trimite modificările printr-un Pull Request.
 
-✅ Vreau să construiesc un utilitar modern.
+📧 Contact & Suport
+Autor: David Rizea
 
-✅ Gratuit.
+Email: rizeadavid90@gmail.com
 
-✅ Transparent.
+Probleme sau Sugestii: Poți deschide o sesizare în secțiunea Issues a proiectului.
 
-✅ Creat de un pasionat de Windows.
-
-🚧 Dezvoltare activă
-WinTweaker este îmbunătățit constant.
-
-Noi funcții și optimizări sunt adăugate în fiecare versiune.
-
-Acesta este doar începutul.
-
-⭐ Susține proiectul
-Dacă îți place proiectul:
-
-⭐ Oferă un Star
-
-💡 Trimite idei
-
-🐛 Raportează erori
-
-📢 Distribuie proiectul
-
-❤️ Mulțumesc!
-WinTweaker nu este dezvoltat de o companie mare.
-
-Este construit cu pasiune, dorință de învățare și ambiția de a crea un optimizer Windows pe care oricine îl poate folosi gratuit.
-
-🚀 Acum aventura abia începe.
+Creat cu pasiune de David Rizea. Licențiat sub MIT License.
