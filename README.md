@@ -4,13 +4,33 @@
 
 **Utilitar de top pentru optimizarea, sporirea vitezei și personalizarea sistemului Windows 10 & 11.**
 
+[![Website](https://img.shields.io/badge/Official_Website-🌐_Visit-0078D4.svg?style=for-the-badge)](https://win-tweaker-website-creation.vercel.app)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
 
+### 🌐 [Vizitează Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app)
+
 </div>
+
+---
+
+# 🎬 VIDEOCLIP DE PREZENTARE
+
+Apasă pe imaginea de mai jos pentru a viziona videoclipul de prezentare oficial pe YouTube:
+
+<div align="center">
+
+[![Videoclip Prezentare WinTweaker](https://img.youtube.com/vi/iZGA8ozs9NE/maxresdefault.jpg)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
+
+*▶️ Fă click pentru a urmări clipul de prezentare pe YouTube!*
+
+</div>
+
+---
 
 # 📌 CARACTERISTICI PRINCIPALE
 
@@ -37,7 +57,7 @@
 # 📥 GHID RAPID DE INSTALARE
 
 ### 📦 Varianta 1: Executabil (.exe)
-Descarcă aplicația gata compilată din secțiunea **Releases** din dreapta paginii GitHub.
+Descarcă aplicația gata compilată din secțiunea **Releases** din dreapta paginii GitHub sau de pe [Site-ul Oficial](https://win-tweaker-website-creation.vercel.app).
 
 ---
 
