@@ -4,7 +4,6 @@
 
 **Utilitar de top pentru optimizarea, sporirea vitezei și personalizarea sistemului Windows 10 & 11.**
 
-[![Version](https://img.shields.io/badge/Version-1.2-blue.svg?style=for-the-badge&logo=windows)](https://github.com/rizeadavid/WinTweaker)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
@@ -46,4 +45,4 @@ Descarcă aplicația gata compilată din secțiunea **Releases** din dreapta pag
 
 1. **Clonează proiectul:**
    ```bash
-   git clone [https://github.com/David-2012-13/WinTweaker.git](https://github.com/David-2012-13/WinTweaker.git)
+   git clone [https://github.com/your-username/WinTweaker.git](https://github.com/your-username/WinTweaker.git)
