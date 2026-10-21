@@ -6,13 +6,14 @@
 
 [![Website](https://img.shields.io/badge/Official_Website-🌐_Visit-0078D4.svg?style=for-the-badge)](https://win-tweaker-website-creation.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
+[![TikTok](https://img.shields.io/badge/TikTok-@wintweaker-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wintweaker)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
 
-### 🌐 [Vizitează Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app)
+### 🌐 [Vizitează Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app) | 🎵 [Urmărește-ne pe TikTok](https://www.tiktok.com/@wintweaker)
 
 </div>
 
