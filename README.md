@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 [Vizitează Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app) | 🎵 [Urmărește-ne pe TikTok](https://www.tiktok.com/@wintweaker)
+### 🌐 [Vizitează Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app) | 🎵 [Urmărește-ma pe TikTok](https://www.tiktok.com/@wintweaker)
 
 </div>
 
