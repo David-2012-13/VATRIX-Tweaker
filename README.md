@@ -22,3 +22,38 @@
 Te-ai săturat ca Windows-ul să-ți mănânce toată memoria RAM și să-ți sacrifice FPS-urile în cele mai importante meciuri? 
 
 **WinTweaker** este un utilitar ultra-rapid, modern și 100% open-source conceput special pentru a elimina procesele parazite din fundal, a reduce latența sistemului și a readuce PC-ului tău viteza pe care o merită. Fără abonamente, fără reclame enervante și fără setări complicate.
+
+</div>
+
+---
+
+## 🔥 De ce WinTweaker este alegerea #1?
+
+* 🧹 **Smart RAM Cleaner Engine:** Curăță memoria RAM acumulată de aplicațiile grele (Chrome, Discord, servicii Windows) instantaneu, fără a afecta stabilitatea sistemului.
+* 🎮 **Zero Lag & Maximum FPS:** Oprește serviciile inutile care provoacă micro-stuttering și scăderi bruște de cadrelor în jocuri precum CS2, Valorant, GTA V, Fortnite sau League of Legends.
+* 🛡️ **100% Open-Source & Privacy First:** Fără colectare de date, fără telemetrie ascunsă și fără bloatware. Codul sursă este complet transparent și verificabil pe GitHub.
+* 💎 **Interfață Modernă PySide6 (Dark Mode):** Proiectată ergonomic pentru o experiență de utilizare simplă și plăcută — apeși un buton și sistemul tău zboară!
+* ⚙️ **Windows Deep Tweaks:** Dezactivează automat serviciile opționale de fundal care îți încarcă procesorul degeaba.
+
+---
+
+## 🛠️ Cum descarci și folosești WinTweaker
+
+### 1️⃣ Metoda Simplă (Executabil gata de drum):
+1. Intră pe [Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app).
+2. Descarcă cea mai nouă versiune `.exe`.
+3. Deschide aplicația și apasă **Clean RAM**!
+
+### 2️⃣ Metoda Developer (Rulare din codul sursă Python):
+```bash
+# Clonează depozitul oficial
+git clone [https://github.com/David-2012-13/Win-Tweaker.git](https://github.com/David-2012-13/Win-Tweaker.git)
+
+# Intra în folderul proiectului
+cd Win-Tweaker
+
+# Instalează dependențele necesare
+pip install -r requirements.txt
+
+# Pornește aplicația
+python main.py
