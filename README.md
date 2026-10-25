@@ -1,59 +1,102 @@
 <div align="center">
 
-<img src="logo.jpg" alt="WinTweaker Logo" width="190" />
+  <!-- Banner Animat / Titlu Neon -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=WinTweaker%20v1.1&fontSize=50&fontColor=00f2fe&animation=twinkling" width="100%" alt="WinTweaker Banner"/>
 
-# ⚡ WinTweaker
+  <p align="center">
+    <b>🚀 Ultra-fast, Open-Source & Lightweight Windows Optimization Suite</b>
+  </p>
 
-**Soluția definitivă pentru optimizarea, sporirea vitezei și eliberarea resurselor în Windows 10 & 11.**
+  <!-- Badge-uri stilizate -->
+  <p align="center">
+    <a href="../../releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=00f2fe&style=for-the-badge&logo=github" alt="Release"></a>
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows" alt="Platform">
+    <img src="https://img.shields.io/badge/Language-Python%20%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License">
+  </p>
 
-[![Website](https://img.shields.io/badge/Official%20Website-%F0%9F%8C%90%20Visit-0078D4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://win-tweaker-website-creation.vercel.app)
-[![YouTube](https://img.shields.io/badge/YouTube-Presentation-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iZGA8ozs9NE)
-[![TikTok](https://img.shields.io/badge/TikTok-@wintweaker-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wintweaker)
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-@David0439041119-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/David0439041119)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://win-tweaker-website-creation.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
-
----
-
-### 🚀 Transformă-ți PC-ul într-o rachetă dintr-un singur click!
-
-Te-ai săturat ca Windows-ul să-ți mănânce toată memoria RAM și să-ți sacrifice FPS-urile în cele mai importante meciuri? 
-
-**WinTweaker** este un utilitar ultra-rapid, modern și 100% open-source conceput special pentru a elimina procesele parazite din fundal, a reduce latența sistemului și a readuce PC-ului tău viteza pe care o merită. Fără abonamente, fără reclame enervante și fără setări complicate.
+  <p align="center">
+    <a href="#-features">Funcționalități</a> •
+    <a href="#-preview">Demo Vizual</a> •
+    <a href="#-social-media">Social Media</a> •
+    <a href="#-quick-start">Instalare Rapidă</a>
+  </p>
 
 </div>
 
 ---
 
-## 🔥 De ce WinTweaker este alegerea #1?
+## ⚡ De ce WinTweaker?
 
-* 🧹 **Smart RAM Cleaner Engine:** Curăță memoria RAM acumulată de aplicațiile grele (Chrome, Discord, servicii Windows) instantaneu, fără a afecta stabilitatea sistemului.
-* 🎮 **Zero Lag & Maximum FPS:** Oprește serviciile inutile care provoacă micro-stuttering și scăderi bruște de cadrelor în jocuri precum CS2, Valorant, GTA V, Fortnite sau League of Legends.
-* 🛡️ **100% Open-Source & Privacy First:** Fără colectare de date, fără telemetrie ascunsă și fără bloatware. Codul sursă este complet transparent și verificabil pe GitHub.
-* 💎 **Interfață Modernă PySide6 (Dark Mode):** Proiectată ergonomic pentru o experiență de utilizare simplă și plăcută — apeși un buton și sistemul tău zboară!
-* ⚙️ **Windows Deep Tweaks:** Dezactivează automat serviciile opționale de fundal care îți încarcă procesorul degeaba.
+> *"Un sistem operativ curat înseamnă latență scăzută și performanță maximă în jocuri și aplicații."*
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>💥 1-Click Flash RAM</h3>
+      <p>Curăță memoria RAM în fundal dintr-o singură apăsare de buton. Reduce instant utilizarea de memorie fără să închidă aplicațiile importante.</p>
+    </td>
+    <td width="50%">
+      <h3>🧹 Smart Windows Debloat</h3>
+      <p>Elimină serviciile inutile, oprește aplicațiile de fundal din Windows 10/11 și eliberează resursele procesorului.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Gaming & Performance Profiles</h3>
+      <p>Ajustări optimizate special pentru a reduce micro-stutter-ul și a crește FPS-urile în jocuri.</p>
+    </td>
+    <td width="50%">
+      <h3>🌙 Dark Mode Modern UI</h3>
+      <p>Interfață ultra-rapidă și elegantă scrisă în PySide6, cu consum insesizabil de resurse.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Cum descarci și folosești WinTweaker
+## 📸 Preview Interfață
 
-### 1️⃣ Metoda Simplă (Executabil gata de drum):
-1. Intră pe [Site-ul Oficial WinTweaker](https://win-tweaker-website-creation.vercel.app).
-2. Descarcă cea mai nouă versiune `.exe`.
-3. Deschide aplicația și apasă **Clean RAM**!
+<div align="center">
+  <!-- Aici pui screenshot-ul tău cu interfața -->
+  <img src="https://via.placeholder.com/800x450/0f0c29/00f2fe?text=WinTweaker+v1.1+UI+Preview" alt="WinTweaker Interface" width="85%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,242,254,0.3);">
+</div>
 
-### 2️⃣ Metoda Developer (Rulare din codul sursă Python):
-```bash
-# Clonează depozitul oficial
-git clone [https://github.com/David-2012-13/Win-Tweaker.git](https://github.com/David-2012-13/Win-Tweaker.git)
+---
 
-# Intra în folderul proiectului
-cd Win-Tweaker
+## 🌐 Urmărește proiectul pe Social Media
 
-# Instalează dependențele necesare
-pip install -r requirements.txt
+<div align="center" id="-social-media">
 
-# Pornește aplicația
-python main.py
+  <a href="https://www.youtube.com/@WT-2026" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@wintweaker" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/David0439041119" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+
+</div>
+
+---
+
+## 🚀 Quick Start (Instalare)
+
+1. Mergi la secțiunea **[Releases](../../releases)**.
+2. Descarcă ultima versiune **`WinTweaker_v1.1.exe`**.
+3. Rulează aplicația ca *Administrator* pentru acces complet la opțiunile de optimizare.
+
+---
+
+<div align="center">
+
+### 🛠️ Dezvoltat cu pasiune de David Rizea
+*Proiect 100% Open-Source & Gratuit*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github)](https://github.com/rizeadavid90)
+
+</div>
