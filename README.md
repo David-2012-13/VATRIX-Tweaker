@@ -7,11 +7,13 @@
     <strong>⚡ Arhitectura supremă pentru optimizarea și eliberarea resurselor în Windows 10 & 11.</strong>
   </p>
 
-  <!-- Badge-uri profesionale -->
+  <!-- Buton de Release și Badge-uri curat aliniate -->
   <p align="center">
-    <a href="https://github.com/rizeadavid90/WinTweaker/releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=00F2FE&style=for-the-badge&logo=github&label=DESCARCĂ%20v1.1" alt="Release"></a>
+    <a href="https://github.com/rizeadavid90/WinTweaker/releases" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-RELEASES_v1.1-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Releases">
+    </a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows" alt="Platform">
-    <img src="https://img.shields.io/badge/Language-Python%20%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/Language-Python%2%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License">
   </p>
 
