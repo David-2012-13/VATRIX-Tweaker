@@ -31,7 +31,7 @@
 
 ## 💡 FLASHCARDURI: PROBLEME vs. SOLUȚIA SUPREMĂ
 
-<!-- Layout de carduri rotunjite (Alb vs Albastru Important) -->
+<!-- Layout de carduri rotunjite alternând între Alb și Albastru Important -->
 <table width="100%" style="border-spacing: 15px; border-collapse: separate;">
   <tr>
     <td width="50%" style="background-color: #ffffff; border-radius: 16px; padding: 25px; border: 2px solid #e1e4e8; vertical-align: top;">
@@ -60,8 +60,8 @@
 ## 👁️ PREVIEW INTERFAȚĂ
 
 <div align="center">
-  <!-- Link direct fixat pentru ca imaginea să meargă perfect -->
-  <img src="https://raw.githubusercontent.com/rizeadavid90/WinTweaker/main/Screenshot%202026-10-14%20090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
+  <!-- Imaginea actualizată cu nenumitul simplificat preview.png -->
+  <img src="preview.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
 </div>
 
 ---
