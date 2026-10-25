@@ -63,18 +63,6 @@
 
 ---
 
-<div align="center">
-
-## 👁️ PREVIEW INTERFAȚĂ
-
-<p>
-  <img src="preview.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 16px; box-shadow: 0 12px 35px rgba(0,242,254,0.3), 0 0 20px rgba(5,117,230,0.2);" />
-</p>
-
-</div>
-
----
-
 ## 🌐 COMUNITATE & SOCIAL MEDIA
 
 <div align="center">
@@ -96,8 +84,8 @@
 
 ## 📥 INSTALARE RAPIDĂ
 
-1. Accesează pagina oficială de descărcare: **[👉 WinTweaker Releases](https://github.com/rizeadavid90/WinTweaker/releases)**
-2. Descarcă executabilul **`WinTweaker_v1.1.exe`**.
+1. Accesează pagina oficială de descărcare: **[👉 WinTweaker Releases (GitHub)](https://github.com/rizeadavid90/WinTweaker/releases)**
+2. Descarcă executabilul **`WinTweaker_v1.1.exe`** din secțiunea dedicată.
 3. Rulează aplicația ca **Administrator** pentru acces deplin la opțiunile de optimizare.
 
 ---
