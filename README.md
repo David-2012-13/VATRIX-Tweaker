@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Banner Animat / Gradient Albastru Profesional & Elegant -->
+  <!-- Banner Animat / Gradient Albastru Profesional -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:00F2FE&height=240&section=header&text=WINTWEAKER%20v1.1&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" alt="WinTweaker Banner"/>
 
   <p align="center">
@@ -27,21 +27,30 @@
 
 > *"Într-un ecosistem digital din ce în ce mai solicitant, sistemul tău merită să ruleze la potențial maxim. WinTweaker elimină barierele dintre hardware-ul tău și viteza pe care o meriți."*
 
-<table width="100%">
+---
+
+## 💡 FLASHCARDURI: PROBLEME vs. SOLUȚIA SUPREMĂ
+
+<!-- Layout de carduri rotunjite (Alb vs Albastru Important) -->
+<table width="100%" style="border-spacing: 15px; border-collapse: separate;">
   <tr>
-    <td width="50%" align="center">
-      <h3>⚙️ PROBLEMELE CURENTE</h3>
-      <p>• Consum ridicat de RAM cauzat de procese inutile în fundal<br>
-      • Latențe și micro-blocaje în multitasking sau jocuri<br>
-      • Servicii Windows care încarcă inutil procesorul<br>
-      • Pierderea timpului cu configurări manuale complexe</p>
+    <td width="50%" style="background-color: #ffffff; border-radius: 16px; padding: 25px; border: 2px solid #e1e4e8; vertical-align: top;">
+      <h3 style="color: #0366d6; margin-top: 0;">⚙️ Problemele Curente</h3>
+      <ul style="color: #24292e; padding-left: 20px; line-height: 1.6;">
+        <li>Consum ridicat de RAM din cauza proceselor ascunse.</li>
+        <li>Latențe și micro-blocaje în multitasking sau jocuri.</li>
+        <li>Servicii Windows care ucid resursele procesorului.</li>
+        <li>Timp pierdut cu setări manuale complicate.</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <h3>🚀 SOLUȚIA WINTWEAKER</h3>
-      <p>• <strong>Flash RAM 1-Click:</strong> Eliberare instantanee a memoriei<br>
-      • <strong>Debloat Inteligent:</strong> Eliminarea balastului din sistem<br>
-      • <strong>Profiluri Dedicate:</strong> Optimizare precisă pentru jocuri și birou<br>
-      • <strong>Interfață Modernă:</strong> Design PySide6 ultra-fluid în dark mode</p>
+    <td width="50%" style="background-color: #0575E6; color: #ffffff; border-radius: 16px; padding: 25px; vertical-align: top; box-shadow: 0 8px 25px rgba(5,117,230,0.4);">
+      <h3 style="color: #ffffff; margin-top: 0;">🚀 Soluția WinTweaker (Important)</h3>
+      <ul style="color: #f0f6fc; padding-left: 20px; line-height: 1.6;">
+        <li><strong>Flash RAM 1-Click:</strong> Eliberare instantanee a memoriei.</li>
+        <li><strong>Debloat Inteligent:</strong> Eliminarea totală a balastului din sistem.</li>
+        <li><strong>Profiluri Dedicate:</strong> Optimizare precisă pentru jocuri/birou.</li>
+        <li><strong>Interfață Modernă:</strong> Design PySide6 ultra-fluid în dark mode.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -51,8 +60,8 @@
 ## 👁️ PREVIEW INTERFAȚĂ
 
 <div align="center">
-  <!-- Folosim calea directă cu raw.githubusercontent.com sau calea sigură -->
-  <img src="./Screenshot%202026-10-14%20090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
+  <!-- Link direct fixat pentru ca imaginea să meargă perfect -->
+  <img src="https://raw.githubusercontent.com/rizeadavid90/WinTweaker/main/Screenshot%202026-10-14%20090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
 </div>
 
 ---
