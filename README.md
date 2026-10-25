@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Animat / Titlu Neon -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=WinTweaker%20v1.1&fontSize=50&fontColor=00f2fe&animation=twinkling" width="100%" alt="WinTweaker Banner"/>
+  <!-- Banner Animat / Gradient Albastru -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F2FE&height=200&section=header&text=WinTweaker%20v1.1&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="WinTweaker Banner"/>
 
   <p align="center">
     <b>🚀 Ultra-fast, Open-Source & Lightweight Windows Optimization Suite</b>
@@ -9,7 +9,7 @@
 
   <!-- Badge-uri stilizate -->
   <p align="center">
-    <a href="../../releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=00f2fe&style=for-the-badge&logo=github" alt="Release"></a>
+    <a href="../../releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=0078D4&style=for-the-badge&logo=github" alt="Release"></a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows" alt="Platform">
     <img src="https://img.shields.io/badge/Language-Python%20%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License">
@@ -47,8 +47,8 @@
       <p>Ajustări optimizate special pentru a reduce micro-stutter-ul și a crește FPS-urile în jocuri.</p>
     </td>
     <td width="50%">
-      <h3>🌙 Dark Mode Modern UI</h3>
-      <p>Interfață ultra-rapidă și elegantă scrisă în PySide6, cu consum insesizabil de resurse.</p>
+      <h3>🌙 Modern Clean UI</h3>
+      <p>Interfață ultra-rapidă și elegantă scrisă în Python, cu consum insesizabil de resurse.</p>
     </td>
   </tr>
 </table>
@@ -57,9 +57,9 @@
 
 ## 📸 Preview Interfață
 
-<div align="center">
-  <!-- Aici pui screenshot-ul tău cu interfața -->
-  <img src="https://via.placeholder.com/800x450/0f0c29/00f2fe?text=WinTweaker+v1.1+UI+Preview" alt="WinTweaker Interface" width="85%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,242,254,0.3);">
+<div align="center" id="-preview">
+  <!-- Imaginea reală a interfeței WinTweaker -->
+  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,120,212,0.3);">
 </div>
 
 ---
