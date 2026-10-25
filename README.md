@@ -23,29 +23,33 @@
 
 # Performanță pură. Fără compromisuri.
 
-</div>
+<p align="center">
+  <em>Într-un ecosistem digital din ce în ce mai solicitant, sistemul tău merită să ruleze la potențial maxim. WinTweaker elimină barierele dintre hardware-ul tău și viteza pe care o meriți.</em>
+</p>
 
-> *"Într-un ecosistem digital din ce în ce mai solicitant, sistemul tău merită să ruleze la potențial maxim. WinTweaker elimină barierele dintre hardware-ul tău și viteza pe care o meriți."*
+</div>
 
 ---
 
-## 💡 FLASHCARDURI: PROBLEME vs. SOLUȚIA SUPREMĂ
+<div align="center">
 
-<!-- Layout de carduri rotunjite alternând între Alb și Albastru Important -->
-<table width="100%" style="border-spacing: 15px; border-collapse: separate;">
+<h2>💡 DIAGNOSTICUL SISTEMULUI</h2>
+
+<!-- Container centrat cu carduri puternic rotunjite -->
+<table align="center" width="90%" style="border-spacing: 20px; border-collapse: separate;">
   <tr>
-    <td width="50%" style="background-color: #ffffff; border-radius: 16px; padding: 25px; border: 2px solid #e1e4e8; vertical-align: top;">
-      <h3 style="color: #0366d6; margin-top: 0;">⚙️ Problemele Curente</h3>
-      <ul style="color: #24292e; padding-left: 20px; line-height: 1.6;">
+    <td width="50%" align="left" style="background-color: #ffffff; border-radius: 20px; padding: 30px; border: 2px solid #e1e4e8; vertical-align: top; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h3 style="color: #0366d6; margin-top: 0; text-align: center;">⚙️ Problemele Curente</h3>
+      <ul style="color: #24292e; padding-left: 20px; line-height: 1.8; margin-bottom: 0;">
         <li>Consum ridicat de RAM din cauza proceselor ascunse.</li>
         <li>Latențe și micro-blocaje în multitasking sau jocuri.</li>
         <li>Servicii Windows care ucid resursele procesorului.</li>
         <li>Timp pierdut cu setări manuale complicate.</li>
       </ul>
     </td>
-    <td width="50%" style="background-color: #0575E6; color: #ffffff; border-radius: 16px; padding: 25px; vertical-align: top; box-shadow: 0 8px 25px rgba(5,117,230,0.4);">
-      <h3 style="color: #ffffff; margin-top: 0;">🚀 Soluția WinTweaker (Important)</h3>
-      <ul style="color: #f0f6fc; padding-left: 20px; line-height: 1.6;">
+    <td width="50%" align="left" style="background-color: #0575E6; color: #ffffff; border-radius: 20px; padding: 30px; vertical-align: top; box-shadow: 0 10px 30px rgba(5,117,230,0.4);">
+      <h3 style="color: #ffffff; margin-top: 0; text-align: center;">🚀 Soluția WinTweaker (Important)</h3>
+      <ul style="color: #f0f6fc; padding-left: 20px; line-height: 1.8; margin-bottom: 0;">
         <li><strong>Flash RAM 1-Click:</strong> Eliberare instantanee a memoriei.</li>
         <li><strong>Debloat Inteligent:</strong> Eliminarea totală a balastului din sistem.</li>
         <li><strong>Profiluri Dedicate:</strong> Optimizare precisă pentru jocuri/birou.</li>
@@ -55,13 +59,18 @@
   </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 👁️ PREVIEW INTERFAȚĂ
 
-<div align="center">
-  <!-- Imaginea actualizată cu nenumitul simplificat preview.png -->
-  <img src="preview.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
+<p>
+  <img src="preview.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 16px; box-shadow: 0 12px 35px rgba(0,242,254,0.3), 0 0 20px rgba(5,117,230,0.2);" />
+</p>
+
 </div>
 
 ---
