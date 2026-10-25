@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Banner Animat / Gradient Negru-Roșu-Albastru (The Ultimate Tech Vibe) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:00F2FE&height=240&section=header&text=WINTWEAKER%20v1.1&fontSize=46&fontColor=ffffff&animation=shine" width="100%" alt="WinTweaker Banner"/>
+  <!-- Banner Animat / Gradient Albastru Profesional & Elegant -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:00F2FE&height=240&section=header&text=WINTWEAKER%20v1.1&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" alt="WinTweaker Banner"/>
 
   <p align="center">
-    <strong>💀 COMPUTERUL TĂU SUFERĂ ÎN TĂCERE. E TIMPUL SĂ-I DAI VIAȚĂ.</strong>
+    <strong>⚡ Arhitectura supremă pentru optimizarea și eliberarea resurselor în Windows 10 & 11.</strong>
   </p>
 
   <!-- Badge-uri profesionale -->
   <p align="center">
-    <a href="https://github.com/rizeadavid90/WinTweaker/releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=FF0000&style=for-the-badge&logo=github&label=DESCARCĂ%20ACUM" alt="Release"></a>
+    <a href="https://github.com/rizeadavid90/WinTweaker/releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=00F2FE&style=for-the-badge&logo=github&label=DESCARCĂ%20v1.1" alt="Release"></a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows" alt="Platform">
     <img src="https://img.shields.io/badge/Language-Python%20%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License">
@@ -21,46 +21,46 @@
 
 <div align="center">
 
-# ⚠️ BĂTĂLIA PENTRU RESURSE ESTE PIERDUTĂ. FĂRĂ INTERVENȚIE, SISTEMUL TĂU SE VA BLOCA.
+# Performanță pură. Fără compromisuri.
 
 </div>
 
-> *"Ai simțit vreodată cum un simplu task îți îngheață tot ecranul? Când procesorul urlă de disperare, iar memoria RAM este la un pas de colaps... nu ai nevoie de scuze. Ai nevoie de **WinTweaker**."*
+> *"Într-un ecosistem digital din ce în ce mai solicitant, sistemul tău merită să ruleze la potențial maxim. WinTweaker elimină barierele dintre hardware-ul tău și viteza pe care o meriți."*
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🔴 COȘMARUL ZILNIC</h3>
-      <p>• Aplicții care rulează pe ascuns în fundal<br>
-      • Latență insuportabilă în jocuri și randări<br>
-      • Windows plin de bloatware și gunoi digital<br>
-      • Timp pierdut așteptând să se deschidă un folder</p>
+      <h3>⚙️ PROBLEMELE CURENTE</h3>
+      <p>• Consum ridicat de RAM cauzat de procese inutile în fundal<br>
+      • Latențe și micro-blocaje în multitasking sau jocuri<br>
+      • Servicii Windows care încarcă inutil procesorul<br>
+      • Pierderea timpului cu configurări manuale complexe</p>
     </td>
     <td width="50%" align="center">
-      <h3>🟢 SOLUȚIA DEFINITIVĂ</h3>
-      <p>• <strong>1-Click Flash RAM:</strong> Curățare instantanee a memoriei<br>
-      • <strong>Debloat Agresiv:</strong> Tăierea serviciilor inutile dinr-o mișcare<br>
-      • <strong>Gaming Boost:</strong> Maximizează fiecare secundă de framerate<br>
-      • <strong>Interfață Modernă:</strong> Control total în timp real</p>
+      <h3>🚀 SOLUȚIA WINTWEAKER</h3>
+      <p>• <strong>Flash RAM 1-Click:</strong> Eliberare instantanee a memoriei<br>
+      • <strong>Debloat Inteligent:</strong> Eliminarea balastului din sistem<br>
+      • <strong>Profiluri Dedicate:</strong> Optimizare precisă pentru jocuri și birou<br>
+      • <strong>Interfață Modernă:</strong> Design PySide6 ultra-fluid în dark mode</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 👁️ PRIVIREA ÎN INTERIORUL SISTEMULUI
+## 👁️ PREVIEW INTERFAȚĂ
 
 <div align="center">
-  <!-- Imaginea ta reală cu interfața -->
-  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 40px rgba(255,0,0,0.2), 0 0 20px rgba(0,242,254,0.3);">
+  <!-- Imaginea reală a interfeței WinTweaker -->
+  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
 </div>
 
 ---
 
-## 🌐 ALĂTURĂ-TE REVOLUȚIEI TECH
+## 🌐 COMUNITATE & SOCIAL MEDIA
 
 <div align="center">
-  <p>Urmărește demonstrații live, cod sursă și secrete de optimizare:</p>
+  <p>Fii la curent cu ultimele noutăți, actualizări și tutoriale video:</p>
   <a href="https://www.youtube.com/@WT-2026" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
@@ -76,18 +76,18 @@
 
 ---
 
-## ⚡ INSTALARE RAPIDĂ (FĂRĂ COMPROMISURI)
+## 📥 INSTALARE RAPIDĂ
 
-1. Apasă direct pe linkul oficial de descărcare: **[👉 Pagina de Releases WinTweaker v1.1](https://github.com/rizeadavid90/WinTweaker/releases)**
-2. Ia executabilul **`WinTweaker_v1.1.exe`**.
-3. Rulează-l ca **Administrator** și redă-i libertatea sistemului tău.
+1. Accesează pagina oficială de descărcare: **[👉 WinTweaker Releases](https://github.com/rizeadavid90/WinTweaker/releases)**
+2. Descarcă executabilul **`WinTweaker_v1.1.exe`**.
+3. Rulează aplicația ca **Administrator** pentru acces deplin la opțiunile de optimizare.
 
 ---
 
 <div align="center">
 
-### 🛠️ Proiect creat cu mână de fier de David Rizea
-*100% Open-Source • Putere Pură pentru Windows*
+### 🛠️ Proiect dezvoltat de David Rizea
+*100% Open-Source • Construit pentru eficiență maximă*
 
 [![GitHub Follow](https://img.shields.io/badge/Urmărește_pe_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizeadavid90)
 
