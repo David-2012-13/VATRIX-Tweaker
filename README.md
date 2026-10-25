@@ -1,54 +1,46 @@
 <div align="center">
 
-  <!-- Banner Animat / Gradient Albastru -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F2FE&height=200&section=header&text=WinTweaker%20v1.1&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="WinTweaker Banner"/>
+  <!-- Banner Animat / Gradient Albastru Dinamic -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:00F2FE&height=220&section=header&text=WINTWEAKER%20v1.1&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="WinTweaker Banner"/>
 
   <p align="center">
-    <b>🚀 Ultra-fast, Open-Source & Lightweight Windows Optimization Suite</b>
+    <em>⚡ Puterea absolută asupra sistemului tău Windows. Fără lene, fără blocaje, doar performanță pură.</em>
   </p>
 
-  <!-- Badge-uri stilizate -->
+  <!-- Badge-uri profesionale -->
   <p align="center">
-    <a href="../../releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=0078D4&style=for-the-badge&logo=github" alt="Release"></a>
+    <a href="https://github.com/rizeadavid90/WinTweaker/releases"><img src="https://img.shields.io/github/v/release/rizeadavid90/WinTweaker?color=00F2FE&style=for-the-badge&logo=github&label=DOWNLOAD" alt="Release"></a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows" alt="Platform">
     <img src="https://img.shields.io/badge/Language-Python%20%2F%20PySide6-3776AB?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="License">
   </p>
 
   <p align="center">
-    <a href="#-features">Funcționalități</a> •
-    <a href="#-preview">Demo Vizual</a> •
-    <a href="#-social-media">Social Media</a> •
-    <a href="#-quick-start">Instalare Rapidă</a>
+    <a href="#-de-ce-wintweaker">De ce?</a> •
+    <a href="#-preview-interfata">Interfață</a> •
+    <a href="#-social-media">Comunitate</a> •
+    <a href="#-quick-start-instalare">Instalare</a>
   </p>
 
 </div>
 
 ---
 
-## ⚡ De ce WinTweaker?
+<div align="center">
 
-> *"Un sistem operativ curat înseamnă latență scăzută și performanță maximă în jocuri și aplicații."*
+# 🛑 Te-ai săturat de un Windows care se mișcă în lag?
+
+</div>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3>💥 1-Click Flash RAM</h3>
-      <p>Curăță memoria RAM în fundal dintr-o singură apăsare de buton. Reduce instant utilizarea de memorie fără să închidă aplicațiile importante.</p>
+    <td width="50%" align="center">
+      <h3>🔥 PROBLEMĂ</h3>
+      <p>Procesoarele încărcate la maxim, fundalul plin de servicii inutile Microsoft și memoria RAM sufocată îți distrug experiența în jocuri și în activitățile zilnice.</p>
     </td>
-    <td width="50%">
-      <h3>🧹 Smart Windows Debloat</h3>
-      <p>Elimină serviciile inutile, oprește aplicațiile de fundal din Windows 10/11 și eliberează resursele procesorului.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 Gaming & Performance Profiles</h3>
-      <p>Ajustări optimizate special pentru a reduce micro-stutter-ul și a crește FPS-urile în jocuri.</p>
-    </td>
-    <td width="50%">
-      <h3>🌙 Modern Clean UI</h3>
-      <p>Interfață ultra-rapidă și elegantă scrisă în Python, cu consum insesizabil de resurse.</p>
+    <td width="50%" align="center">
+      <h3>⚡ SOLUȚIA: WINTWEAKER</h3>
+      <p>Un utilitar creat de la zero pentru a tăia tot balastul din sistem, eliberând resurse vitale printr-un simplu click, fără riscuri pentru sistemul tău.</p>
     </td>
   </tr>
 </table>
@@ -57,17 +49,26 @@
 
 ## 📸 Preview Interfață
 
-<div align="center" id="-preview">
+<div align="center" id="-preview-interfata">
   <!-- Imaginea reală a interfeței WinTweaker -->
-  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,120,212,0.3);">
+  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,242,254,0.4);">
 </div>
 
 ---
 
-## 🌐 Urmărește proiectul pe Social Media
+## 🚀 Funcționalități de Top
+
+* **💥 1-Click Flash RAM:** Curățare agresivă și inteligentă a memoriei RAM în timp real.
+* **🧹 Smart Windows Debloat:** Elimină bloatware-ul și aplicațiile fantomă care rulează pe ascuns.
+* **🎮 Gaming Performance:** Optimizări de latență pentru un framerate stabil.
+* **🌙 Dark Mode UI:** Interfață modernă, elegantă, extrem de ușoară pentru resursele PC-ului.
+
+---
+
+## 🌐 Conectează-te cu Dezvoltatorul
 
 <div align="center" id="-social-media">
-
+  <p>Urmărește evoluția proiectului și tutoriale exclusive:</p>
   <a href="https://www.youtube.com/@WT-2026" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
@@ -79,24 +80,23 @@
   <a href="https://x.com/David0439041119" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-
 </div>
 
 ---
 
-## 🚀 Quick Start (Instalare)
+## 📥 Quick Start (Instalare)
 
-1. Mergi la secțiunea **[Releases](../../releases)**.
-2. Descarcă ultima versiune **`WinTweaker_v1.1.exe`**.
-3. Rulează aplicația ca *Administrator* pentru acces complet la opțiunile de optimizare.
+1. Mergi direct la pagina oficială de descărcare: **[👉 WinTweaker Releases](https://github.com/rizeadavid90/WinTweaker/releases)** *(Apasă aici ca să descarci executabilul!)*
+2. Descarcă fișierul **`WinTweaker_v1.1.exe`**.
+3. Rulează-l ca **Administrator** și bucură-te de viteză maximă!
 
 ---
 
 <div align="center">
 
-### 🛠️ Dezvoltat cu pasiune de David Rizea
-*Proiect 100% Open-Source & Gratuit*
+### 🛠️ Proiect creat cu pasiune de David Rizea
+*100% Open-Source & Gratuit*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=social&logo=github)](https://github.com/rizeadavid90)
+[![GitHub Follow](https://img.shields.io/badge/Urmărește_pe_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizeadavid90)
 
 </div>
