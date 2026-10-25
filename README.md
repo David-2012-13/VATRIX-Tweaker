@@ -51,8 +51,8 @@
 ## 👁️ PREVIEW INTERFAȚĂ
 
 <div align="center">
-  <!-- Imaginea reală a interfeței WinTweaker -->
-  <img src="Screenshot 2026-10-14 090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
+  <!-- Folosim calea directă cu raw.githubusercontent.com sau calea sigură -->
+  <img src="./Screenshot%202026-10-14%20090239.png" alt="WinTweaker Interface Preview" width="95%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,242,254,0.3), 0 0 15px rgba(5,117,230,0.2);" />
 </div>
 
 ---
