@@ -1,19 +1,18 @@
 <div align="center">
 
-  <!-- Banner animat sus (Înlocuiește link-ul cu un GIF animat real sau lasă-l pe acesta ca exemplu) -->
-  <img src="https://raw.githubusercontent.com/username/repo/main/banner-animat.gif" width="100%" alt="VatrixTweaker Animated Banner">
+  <!-- Titlu animat scris letter-by-letter în alb și negru -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=VATRIXTWEAKER+v1.1;ULTIMATE+WINDOWS+OPTIMIZER" alt="Typing Animation">
 
-  <h1 align="center">VATRIXTWEAKER v1.1</h1>
-  <p align="center"><b>The Ultimate Windows 10 & 11 Optimization & Debloat Utility</b></p>
-
-  <!-- Badge-uri animate și colorate -->
+  <!-- Badge-uri elegante în tonuri de alb-negru -->
   <p>
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0575E6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
-    <img src="https://img.shields.io/badge/Python-PySide6-333333?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-black?style=flat-square&logo=windows&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/Python-PySide6-222222?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Version-v1.1-lightgrey?style=flat-square" alt="Version">
+    <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="License">
   </p>
 
   <p>
+    <a href="#-overview">Overview</a> •
     <a href="#-features">Features</a> •
     <a href="#-system-requirements">Requirements</a> •
     <a href="#-download--installation">Download</a> •
