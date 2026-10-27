@@ -27,14 +27,38 @@
 ---
 
 ## 📸 Previzualizare Interfață (Screenshots v1.2 Preview)
-<img width="1365" height="711" alt="Screenshot 2026-10-27 212328" src="https://github.com/user-attachments/assets/b0cfdc55-0048-4e3a-a37f-cca5ad424109" />
-<img width="1365" height="710" alt="Screenshot 2026-10-27 212550" src="https://github.com/user-attachments/assets/749f2a51-4f55-448a-8090-bbaeff8f6b3e" />
-<img width="1365" height="713" alt="Screenshot 2026-10-27 212515" src="https://github.com/user-attachments/assets/a509f7b7-855b-494e-8b5a-93fa4add4022" />
-<img width="1365" height="713" alt="Screenshot 2026-10-27 212446" src="https://github.com/user-attachments/assets/2dcfb962-0afc-423f-8ffa-86f202699eec" />
-<img width="1364" height="711" alt="Screenshot 2026-10-27 212350" src="https://github.com/user-attachments/assets/c8210ede-74d8-4138-b904-0003635e5fa4" />
 
 <div align="center">
 
+  ### 🎨 Ecranul de Bun Venit / Launcher
+ <img width="1365" height="711" alt="Screenshot 2026-10-27 212328" src="https://github.com/user-attachments/assets/5f9c9316-dc4e-47f8-8c23-dc337632f797" />
+
+
+  <br/><br/>
+
+  ### 🏠 Ecranul Principal (Dashboard & Monitorizare)
+  <img width="1364" height="711" alt="Screenshot 2026-10-27 212350" src="https://github.com/user-attachments/assets/e84b8a7c-9b5a-4561-9309-f643d679b603" />
+
+
+  <br/><br/>
+
+  ### ⚙️ Secțiunea de Optimizare Sistem & Profiluri
+  <img width="1365" height="713" alt="Screenshot 2026-10-27 212446" src="https://github.com/user-attachments/assets/8dc4399c-6590-472e-9d2a-aa3252660de9" />
+
+
+  <br/><br/>
+
+  ### 📦 Management Aplicații & WinGet
+  <img width="1365" height="713" alt="Screenshot 2026-10-27 212515" src="https://github.com/user-attachments/assets/10118f2e-97f7-4049-a032-4c59e2210f81" />
+
+
+  <br/><br/>
+
+  ### 🛡️ Control Servicii Windows & Telemetrie
+  <img width="1365" height="710" alt="Screenshot 2026-10-27 212550" src="https://github.com/user-attachments/assets/452ba27b-c79b-4632-bfa5-fd5e33bf08a5" />
+
+
+</div>
 
 ---
 
