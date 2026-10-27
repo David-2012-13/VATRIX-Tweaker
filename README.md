@@ -35,30 +35,6 @@
 
 <div align="center">
 
-  ### 🎨 Ecranul de Bun Venit / Launcher
-  <img src="LINK_POZA_WELCOME" width="80%" alt="VatrixTweaker Launcher" />
-
-  <br/><br/>
-
-  ### 🏠 Ecranul Principal (Dashboard & Monitorizare)
-  <img src="LINK_POZA_ACASA" width="90%" alt="VatrixTweaker Dashboard" />
-
-  <br/><br/>
-
-  ### ⚙️ Secțiunea de Optimizare Sistem & Profiluri
-  <img src="LINK_POZA_OPTIMIZARE" width="90%" alt="VatrixTweaker Optimization" />
-
-  <br/><br/>
-
-  ### 📦 Management Aplicații & WinGet
-  <img src="LINK_POZA_APLICATII" width="90%" alt="VatrixTweaker Applications" />
-
-  <br/><br/>
-
-  ### 🛡️ Control Servicii Windows & Telemetrie
-  <img src="LINK_POZA_SERVICII" width="90%" alt="VatrixTweaker Services" />
-
-</div>
 
 ---
 
