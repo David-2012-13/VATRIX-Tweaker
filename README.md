@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Animat / Gradient Albastru Profesional -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:00F2FE&height=240&section=header&text=WINTWEAKER%20v1.1&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" alt="WinTweaker Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:00F2FE&height=240&section=header&text=VATRIXTWEAKER%20v1.1&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" alt="WinTweaker Banner"/>
 
   <p align="center">
     <strong>⚡ Arhitectura supremă pentru optimizarea și eliberarea resurselor în Windows 10 & 11.</strong>
