@@ -1,14 +1,16 @@
 <div align="center">
 
+  <!-- Banner animat sus (Înlocuiește link-ul cu un GIF animat real sau lasă-l pe acesta ca exemplu) -->
+  <img src="https://raw.githubusercontent.com/username/repo/main/banner-animat.gif" width="100%" alt="VatrixTweaker Animated Banner">
+
   <h1 align="center">VATRIXTWEAKER v1.1</h1>
   <p align="center"><b>The Ultimate Windows 10 & 11 Optimization & Debloat Utility</b></p>
 
-  <!-- Badge-uri elegante pentru GitHub -->
+  <!-- Badge-uri animate și colorate -->
   <p>
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0575E6?style=flat-square&logo=windows&logoColor=white" alt="Platform">
-    <img src="https://img.shields.io/badge/Python-PySide6-333333?style=flat-square&logo=python&logoColor=yellow" alt="Python">
-    <img src="https://img.shields.io/badge/Version-v1.1-success?style=flat-square" alt="Version">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0575E6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/Python-PySide6-333333?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
   </p>
 
   <p>
