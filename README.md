@@ -1,7 +1,17 @@
 <div align="center">
+
   <h1 align="center">VATRIXTWEAKER v1.1</h1>
   <p align="center"><b>The Ultimate Windows 10 & 11 Optimization & Debloat Utility</b></p>
-  <p align="center">
+
+  <!-- Badge-uri elegante pentru GitHub -->
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0575E6?style=flat-square&logo=windows&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/Python-PySide6-333333?style=flat-square&logo=python&logoColor=yellow" alt="Python">
+    <img src="https://img.shields.io/badge/Version-v1.1-success?style=flat-square" alt="Version">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+  </p>
+
+  <p>
     <a href="#-features">Features</a> •
     <a href="#-system-requirements">Requirements</a> •
     <a href="#-download--installation">Download</a> •
