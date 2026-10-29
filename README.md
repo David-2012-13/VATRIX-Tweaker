@@ -17,31 +17,7 @@
 
 ## 📌 Despre Proiect
 
-**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgravel.
-
----
-
-## 📸 Galerie & Interfață
-
-### 🏠 1. Dashboard Principal (Acasă)
-![Dashboard Vatrix Tweaker](10.png)
-*Monitorizare în timp real a memoriei RAM, stării fișierelor temporare, programelor active la boot și specificațiilor hardware detaliate.*
-
-### 📦 2. WinGet Software Hub (Instalator Rapid)
-![WinGet Software Hub](12.png)
-*Instalare rapidă dintr-un singur click pentru **peste 79 de aplicații esențiale** (browsere, utilitare, dev, media, gaming), fără reclame sau pași inutili.*
-
-### 🚀 3. Gestiune Startup (Viteză Boot)
-![Startup Manager](13.png)
-*Control simplu și rapid asupra aplicațiilor care pornesc odată cu Windows-ul, pentru reducerea timpului de boot.*
-
-### 🛠️ 4. Utilitare, Curățare Cache & Activator Massgravel
-![Utilitare si Activator](14.png)
-*Gestiune aplicații instalate, curățare cache pentru browsere (Chrome, Edge, Firefox), ștergere reziduuri Windows Update și acces rapid la activatorul oficial Massgravel.*
-
-### ⚙️ 5. Servicii & Funcții de Sistem (Octane Engine)
-![Gestiune Servicii](15.png)
-*Dezactivare sigură a serviciilor inutile de fundal (Telemetry, SysMain, Windows Search, Fax, Print Spooler etc.) pentru eliberare de resurse.*
+**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgrave.
 
 ---
 
