@@ -7,13 +7,17 @@
 
 **Soluția completă, modernă și rapidă pentru optimizarea, personalizarea și gestionarea sistemului Windows.**
 
-[![GitHub Release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub Release](https://img.shields.io/badge/Release-v1.1%20(Stable)-green?style=for-the-badge&logo=github)](https://github.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
 
 ---
 
 </div>
+
+> **⚠️ Notă importantă:** Versiunea **v1.2** este în prezent în curs de dezvoltare (*în lucru*). Pentru o experiență stabilă, vă recomandăm să utilizați versiunea **v1.1**.
+
+---
 
 ## 📌 Despre Proiect
 
