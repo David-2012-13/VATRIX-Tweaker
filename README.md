@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner / Animație Header (Înlocuiește header_animation.gif cu fișierul tău GIF animat) -->
-<img src="header_animation.gif" alt="Vatrix Tweaker Animation" width="100%">
+<!-- Banner / Animație Header cu umbră gri discretă -->
+<img src="header_animation.gif" alt="Vatrix Tweaker Animation" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
 
 # ⚡ Vatrix Tweaker
 
