@@ -1,111 +1,76 @@
 <div align="center">
 
-  <!-- Banner animat cu gradient albastru neon & navy -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:0078d4&height=190&section=header&text=VATRIXTweaker&fontSize=50&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
+<!-- Banner / Animație Header (Înlocuiește header_animation.gif cu fișierul tău GIF animat) -->
+<img src="header_animation.gif" alt="Vatrix Tweaker Animation" width="100%">
 
-  <p align="center">
-    <b>The Ultimate Open-Source Windows 10 & 11 System Optimization & Debloat Utility</b>
-  </p>
+# ⚡ Vatrix Tweaker
 
-  <p align="center">
-    <a href="https://github.com/David-2012-13/VATRIX-Tweaker/releases"><img src="https://img.shields.io/github/v/release/David-2012-13/VATRIX-Tweaker?style=for-the-badge&color=0078d4&logo=github&logoColor=white" alt="Release"></a>
-    <a href="https://rizeadavid.itch.io/vatrixtweaker"><img src="https://img.shields.io/badge/Itch.io-Download-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
-    <img src="https://img.shields.io/badge/Python-PySide6-00599E?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/License-MIT-0078d4?style=for-the-badge" alt="License">
-  </p>
+**Soluția completă, modernă și rapidă pentru optimizarea, personalizarea și gestionarea sistemului Windows.**
+
+[![GitHub Release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge&logo=github)](https://github.com)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
+
+---
 
 </div>
 
-> **📌 NOTĂ / NOTE:** Materialele vizuale de mai jos includ elemente din versiunea **v1.2 (aflată în prezent în dezvoltare / producție)**. Versiunea stabilă curentă disponibilă pentru descărcare este **v1.1**.
+## 📌 Despre Proiect
+
+**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgravel.
 
 ---
 
-## 🚀 Despre Proiect
+## 📸 Galerie & Interfață
 
-**VATRIXTweaker** este un utilitar ultra-rapid, open-source și complet transparent, dezvoltat în **Python (PySide6 / Qt)**. A fost creat special pentru a curăța bloatware-ul din Windows, a dezactiva telemetria invazivă și a elibera memoria RAM pentru o performanță maximă în jocuri și aplicații.
+### 🏠 1. Dashboard Principal (Acasă)
+![Dashboard Vatrix Tweaker](10.png)
+*Monitorizare în timp real a memoriei RAM, stării fișierelor temporare, programelor active la boot și specificațiilor hardware detaliate.*
 
----
+### 📦 2. WinGet Software Hub (Instalator Rapid)
+![WinGet Software Hub](12.png)
+*Instalare rapidă dintr-un singur click pentru **peste 79 de aplicații esențiale** (browsere, utilitare, dev, media, gaming), fără reclame sau pași inutili.*
 
-## 📸 Previzualizare Interfață (Screenshots v1.2 Preview)
+### 🚀 3. Gestiune Startup (Viteză Boot)
+![Startup Manager](13.png)
+*Control simplu și rapid asupra aplicațiilor care pornesc odată cu Windows-ul, pentru reducerea timpului de boot.*
 
-<div align="center">
+### 🛠️ 4. Utilitare, Curățare Cache & Activator Massgravel
+![Utilitare si Activator](14.png)
+*Gestiune aplicații instalate, curățare cache pentru browsere (Chrome, Edge, Firefox), ștergere reziduuri Windows Update și acces rapid la activatorul oficial Massgravel.*
 
-  ### 🎨 Ecranul de Bun Venit / Launcher
- <img width="1365" height="711" alt="Screenshot 2026-10-27 212328" src="https://github.com/user-attachments/assets/5f9c9316-dc4e-47f8-8c23-dc337632f797" />
-
-
-  <br/><br/>
-
-  ### 🏠 Ecranul Principal (Dashboard & Monitorizare)
-  <img width="1364" height="711" alt="Screenshot 2026-10-27 212350" src="https://github.com/user-attachments/assets/e84b8a7c-9b5a-4561-9309-f643d679b603" />
-
-
-  <br/><br/>
-
-  ### ⚙️ Secțiunea de Optimizare Sistem & Profiluri
-  <img width="1365" height="713" alt="Screenshot 2026-10-27 212446" src="https://github.com/user-attachments/assets/8dc4399c-6590-472e-9d2a-aa3252660de9" />
-
-
-  <br/><br/>
-
-  ### 📦 Management Aplicații & WinGet
-  <img width="1365" height="713" alt="Screenshot 2026-10-27 212515" src="https://github.com/user-attachments/assets/10118f2e-97f7-4049-a032-4c59e2210f81" />
-
-
-  <br/><br/>
-
-  ### 🛡️ Control Servicii Windows & Telemetrie
-  <img width="1365" height="710" alt="Screenshot 2026-10-27 212550" src="https://github.com/user-attachments/assets/452ba27b-c79b-4632-bfa5-fd5e33bf08a5" />
-
-
-</div>
+### ⚙️ 5. Servicii & Funcții de Sistem (Octane Engine)
+![Gestiune Servicii](15.png)
+*Dezactivare sigură a serviciilor inutile de fundal (Telemetry, SysMain, Windows Search, Fax, Print Spooler etc.) pentru eliberare de resurse.*
 
 ---
 
-## ✨ Funcționalități Complete & Module
+## 🚀 Funcționalități Principale
 
-| Modul | Descriere & Acțiuni |
+- **⚡ WinGet Software Hub:** Manager integrat pentru instalarea rapidă a 79+ aplicații împărțite pe categorii (*Web & Cloud, Comunicare, Gaming, Utilitare, Dev & IT, Media, Runtimes*).
+- **🔑 Integrare Activator Massgravel:** Lansare directă dintr-un singur buton a scriptului oficial MAS (Massgravel) pentru activarea rapidă Windows/Office.
+- **🧹 Curățare Sistem & Cache:** Ștergere fișiere temporare, curățare reziduuri Windows Update și golire cache pentru browsere (Chrome, Edge, Firefox).
+- **🧠 Optimizare RAM & Auto-Care:** Curățare memorie RAM în timp real și creare puncte de restaurare sistem (*System Restore Point*).
+- **🚀 Management Startup / Boot:** Control absolut asupra serviciilor și aplicațiilor cu autorun la pornirea sistemului.
+- **🛡️ Tweaks Servicii Windows (Octane Engine):** Dezactivare sigură a colectării de date (Telemetrie), servicii de diagnosticare și componente redundante din Windows.
+- **🎨 Interfață Modernă Fluent UI:** Design curat, suport complet pentru Dark Mode / Light Mode și comutator integrat de limbă (RO/EN).
+
+---
+
+## 🖥️ Cerințe de Sistem
+
+| Componentă | Cerință Minimă |
 | :--- | :--- |
-| **⚡ Flash RAM 1-Click** | Eliberare profundă a memoriei de lucru și optimizare instantanee RAM. |
-| **🛠️ Smart Debloat** | Eliminare sigură a aplicațiilor preinstalate inutile (UWP / Bloatware). |
-| **🎮 Gaming & Performance Boost** | Reducerea micro-stuttering-ului și optimizarea performanței generale. |
-| **🔒 Privacy & Telemetry Killer** | Oprește colectarea de date Microsoft, serviciile de urmărire și diagnosticările în fundal. |
-| **⚙️ Services & Startup Manager** | Control granular asupra serviciilor Windows și aplicațiilor din pornire auto. |
-| **🌐 Winget Software Installer** | Instalator integrat rapid pentru cele mai populare aplicații. |
-| **📊 Real-Time System Monitor** | Monitorizează utilizarea resurselor, starea discurilor și specificațiile hardware. |
-| **🎨 Modern UI & Theme** | Interfață fluidă în Dark/Light mode cu opțiune de comutare a temei. |
+| **Sistem de Operare** | Windows 10 / Windows 11 (64-bit) |
+| **Privilegii** | Drepturi de **Administrator** (necesare pentru servicii & comenzi WinGet) |
+| **Python** | Python 3.10+ *(dacă se rulează din cod sursă)* |
 
 ---
 
-## 🔗 Link-uri Oficiale & Descărcare
+## 🛠️ Instalare și Rulare din Sursă
 
-* 🐙 **GitHub Releases:** [Descarcă versiunea stabilă v1.1](https://github.com/David-2012-13/VATRIX-Tweaker/releases)
-* 🎮 **Itch.io Store:** [Pagina oficială Itch.io](https://rizeadavid.itch.io/vatrixtweaker)
-
----
-
-## 💻 Cerințe de Sistem
-
-* **Sistem de Operare:** Windows 10 sau Windows 11 (64-bit recomandat)
-* **Execuție:** Autonomă (Standalone `.exe` - nu necesită instalare Python)
-* **Permisiuni:** Rulare cu drepturi de Administrator (`Run as Administrator`)
-
----
-
-## 🌐 Comunitate & Social Media
-
-Urmărește dezvoltarea versiunii v1.2 și alătură-te discuției:
-
-<p align="center">
-  <a href="https://github.com/David-2012-13/VATRIX-Tweaker"><img src="https://img.shields.io/badge/Reddit-Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  <a href="https://www.youtube.com/@WT-2026"><img src="https://img.shields.io/badge/YouTube-Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://tiktok.com/@wintweaker"><img src="https://img.shields.io/badge/TikTok-Updates-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://x.com/David0439041119"><img src="https://img.shields.io/badge/X%20(Twitter)-Official-0078d4?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
-
----
-
-<div align="center">
-  <p>Dezvoltat de <b>David Rizea</b> sub licența <b>MIT</b>.</p>
-  <p><i>Dacă acest proiect te ajută, lasă un ⭐ pe repository-ul de GitHub!</i></p>
-</div>
+1. **Clonează repozitoriul:**
+   
+```bash
+   git clone [https://github.com/utilizator/vatrix-tweaker.git](https://github.com/utilizator/vatrix-tweaker.git)
+   cd vatrix-tweaker
