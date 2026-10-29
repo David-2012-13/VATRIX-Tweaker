@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner / Animație Header cu umbră gri discretă -->
-<img src="header_animation.gif" alt="Vatrix Tweaker Animation" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+<!-- Banner Animant Simplu și Elegant -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a1a,100:0078d6&height=180&section=header&text=Vatrix%20Tweaker&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
 
 # ⚡ Vatrix Tweaker
 
