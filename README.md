@@ -1,56 +1,60 @@
-<div align="center">
-
-<!-- Banner Animant Simplu și Elegant -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a1a,100:0078d6&height=180&section=header&text=Vatrix%20Tweaker&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
-
-# ⚡ Vatrix Tweaker
+# 🚀 Vatrix Tweaker
 
 **Soluția completă, modernă și rapidă pentru optimizarea, personalizarea și gestionarea sistemului Windows.**
 
-[![GitHub Release](https://img.shields.io/badge/Release-v1.1%20(Stable)-green?style=for-the-badge&logo=github)](https://github.com)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
+[![Official Website](https://img.shields.io/badge/Official_Site-vatrixtweaker.lovable.app-blueviolet?style=for-the-badge&logo=react)](https://vatrixtweaker.lovable.app)
+[![Version](https://img.shields.io/badge/Version-v1.1_Stable-brightgreen?style=for-the-badge)](https://github.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
----
-
-</div>
-
-> **⚠️ Notă importantă:** Versiunea **v1.2** este în prezent în curs de dezvoltare (*în lucru*). Pentru o experiență stabilă, vă recomandăm să utilizați versiunea **v1.1**.
+> 🌐 **Site Oficial:** [https://vatrixtweaker.lovable.app](https://vatrixtweaker.lovable.app)  
+> ⚠️ **Notă de versiune:** Versiunea **v1.2** este în prezent în lucru. Pentru o experiență stabilă, vă recomandăm să utilizați versiunea **v1.1**.
 
 ---
 
 ## 📌 Despre Proiect
 
-**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgrave.
+**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. 
+
+Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgrave.
 
 ---
 
-## 🚀 Funcționalități Principale
+## ⚡ Funcționalități Principale
 
-- **⚡ WinGet Software Hub:** Manager integrat pentru instalarea rapidă a 79+ aplicații împărțite pe categorii (*Web & Cloud, Comunicare, Gaming, Utilitare, Dev & IT, Media, Runtimes*).
-- **🔑 Integrare Activator Massgravel:** Lansare directă dintr-un singur buton a scriptului oficial MAS (Massgravel) pentru activarea rapidă Windows/Office.
-- **🧹 Curățare Sistem & Cache:** Ștergere fișiere temporare, curățare reziduuri Windows Update și golire cache pentru browsere (Chrome, Edge, Firefox).
-- **🧠 Optimizare RAM & Auto-Care:** Curățare memorie RAM în timp real și creare puncte de restaurare sistem (*System Restore Point*).
-- **🚀 Management Startup / Boot:** Control absolut asupra serviciilor și aplicațiilor cu autorun la pornirea sistemului.
-- **🛡️ Tweaks Servicii Windows (Octane Engine):** Dezactivare sigură a colectării de date (Telemetrie), servicii de diagnosticare și componente redundante din Windows.
-- **🎨 Interfață Modernă Fluent UI:** Design curat, suport complet pentru Dark Mode / Light Mode și comutator integrat de limbă (RO/EN).
+- **📦 WinGet Software Hub:** Manager integrat pentru instalarea rapidă a peste 79 de aplicații esențiale, structurate pe categorii (*Web, Gaming, Dev, Media, Runtimes* etc.).
+- **🔑 Integrare Massgravel (MAS):** Acces direct dintr-un singur click la scriptul oficial Massgravel pentru activarea Windows și Office.
+- **🧹 Curățare Cache & Fișiere Temporare:** Ștergere fișiere reziduale, curățare cache browsere (*Chrome, Edge, Firefox*) și eliberare spațiu de stocare.
+- **🧠 Optimizare RAM & Puncte de Restaurare:** Curățare memorie în timp real și posibilitatea de a crea instanțe System Restore Point înainte de modificări.
+- **🚀 Management Startup & Boot:** Preia controlul asupra aplicațiilor și serviciilor care pornesc odată cu sistemul operativ.
+- **🛡️ Octane Engine (Tweaks Servicii):** Dezactivare sigură a serviciilor inutile din fundal pentru maximizarea resurselor în jocuri și aplicații solicitante.
+- **🎨 Interfață Modernă Fluent UI:** Design nativ, suport Dark / Light Mode și comutator rapid de limbă (*Română / Engleză*).
 
 ---
 
 ## 🖥️ Cerințe de Sistem
 
-| Componentă | Cerință Minimă |
-| :--- | :--- |
-| **Sistem de Operare** | Windows 10 / Windows 11 (64-bit) |
-| **Privilegii** | Drepturi de **Administrator** (necesare pentru servicii & comenzi WinGet) |
-| **Python** | Python 3.10+ *(dacă se rulează din cod sursă)* |
+* **Sistem de Operare:** Windows 10 sau Windows 11 (64-bit)
+* **Permisiuni:** Drepturi de Administrator (necesare pentru aplicarea tweak-urilor de sistem și execuția comenzilor WinGet)
 
 ---
 
-## 🛠️ Instalare și Rulare din Sursă
+## 📥 Descărcare și Instalare
 
-1. **Clonează repozitoriul:**
-   
-```bash
-   git clone [https://github.com/utilizator/vatrix-tweaker.git](https://github.com/utilizator/vatrix-tweaker.git)
-   cd vatrix-tweaker
+1. Vizitează site-ul oficial: **[vatrixtweaker.lovable.app](https://vatrixtweaker.lovable.app)** sau mergi la secțiunea **Releases** din GitHub.
+2. Descarcă versiunea stabilă **v1.1**.
+3. Extrage arhiva și rulează executabilul cu drepturi de **Administrator** (`Run as Administrator`).
+
+---
+
+## 🛠️ Tehnologii Utilizate
+
+* **Limbaj:** Python 3.x
+* **GUI Framework:** PySide6 (Qt for Python)
+* **Pachete & Unelte:** WinGet CLI, Windows Management Instrumentation (WMI), PowerShell scripts integration
+
+---
+
+## 📄 Licență
+
+Acest proiect este distribuit sub licența **MIT**. Consultați fișierul `LICENSE` pentru mai multe detalii.
