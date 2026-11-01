@@ -18,6 +18,8 @@
 * **Manager de Pachete:** Integrat cu `winget` pentru instalarea și actualizarea rapidă a software-ului.
 * **Optimizări de Sistem:** Tweak-uri speciale pentru reducerea latenței în jocuri.
 
+> 💡 **Există mult mai multe funcții și optimizări integrate!** Pentru a le explora pe toate și a testa întregul potențial al aplicației, te invităm să descarci și să încerci versiunea completă `Vatrix.exe`.
+
 ---
 
 ## 🛠️ Cum se deschide / rula aplicația
