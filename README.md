@@ -1,60 +1,80 @@
-# 🚀 Vatrix Tweaker
+⚡ Vatrix Tweaker (v1.2)
 
-**Soluția completă, modernă și rapidă pentru optimizarea, personalizarea și gestionarea sistemului Windows.**
+Vatrix Tweaker este un utilitar open-source modern, rapid și eficient, proiectat pentru optimizarea sistemului de operare Windows, gestionarea memoriei RAM și instalarea simplificată a pachetelor prin winget.
 
-[![Official Website](https://img.shields.io/badge/Official_Site-vatrixtweaker.lovable.app-blueviolet?style=for-the-badge&logo=react)](https://vatrixtweaker.lovable.app)
-[![Version](https://img.shields.io/badge/Version-v1.1_Stable-brightgreen?style=for-the-badge)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
+🆕 Ce este nou în Versiunea 1.2
 
-> 🌐 **Site Oficial:** [https://vatrixtweaker.lovable.app](https://vatrixtweaker.lovable.app)  
-> ⚠️ **Notă de versiune:** Versiunea **v1.2** este în prezent în lucru. Pentru o experiență stabilă, vă recomandăm să utilizați versiunea **v1.1**.
+⚡ Optimizări Sistem: Scripturi noi și mai rapide pentru ajustarea performanței și confidențialității.
 
----
+📦 Modul Winget Îmbunătățit: Interfață mai curată pentru căutarea și instalarea aplicațiilor.
 
-## 📌 Despre Proiect
+🧹 Curățare RAM: Gestionare optimizată a proceselor pentru eliberarea memoriei fizice fără blocaje.
 
-**Vatrix Tweaker** este o aplicație desktop avansată dezvoltată în **Python** și **PySide6**, creată special pentru a oferi utilizatorilor control deplin asupra performanței și funcțiilor din **Windows 10 și 11**. 
+🎨 UI PySide6 Fluidizat: Îmbunătățiri la nivel vizual și timpi de răspuns mai buni.
 
-Cu o interfață intuitivă Fluent UI (Dark/Light Mode), aplicația centralizează unelte esențiale de curățare, optimizare RAM, gestionare servicii de sistem, instalare rapidă de software prin WinGet și utilitare speciale precum activatorul Massgrave.
+🚀 Funcționalități Principale
 
----
+Interfață Modernă (PySide6): Simplu de navigat, fără meniuri complicate.
 
-## ⚡ Funcționalități Principale
+Optimizare RAM: Eliberează memoria cache și memoria nefolosită printr-un singur click.
 
-- **📦 WinGet Software Hub:** Manager integrat pentru instalarea rapidă a peste 79 de aplicații esențiale, structurate pe categorii (*Web, Gaming, Dev, Media, Runtimes* etc.).
-- **🔑 Integrare Massgravel (MAS):** Acces direct dintr-un singur click la scriptul oficial Massgravel pentru activarea Windows și Office.
-- **🧹 Curățare Cache & Fișiere Temporare:** Ștergere fișiere reziduale, curățare cache browsere (*Chrome, Edge, Firefox*) și eliberare spațiu de stocare.
-- **🧠 Optimizare RAM & Puncte de Restaurare:** Curățare memorie în timp real și posibilitatea de a crea instanțe System Restore Point înainte de modificări.
-- **🚀 Management Startup & Boot:** Preia controlul asupra aplicațiilor și serviciilor care pornesc odată cu sistemul operativ.
-- **🛡️ Octane Engine (Tweaks Servicii):** Dezactivare sigură a serviciilor inutile din fundal pentru maximizarea resurselor în jocuri și aplicații solicitante.
-- **🎨 Interfață Modernă Fluent UI:** Design nativ, suport Dark / Light Mode și comutator rapid de limbă (*Română / Engleză*).
+Tweaks Windows: Tweaks pentru oprirea serviciilor inutile și optimizarea setărilor de sistem.
 
----
+Manager de Pachete Winget: Caută și instalează rapid programele preferate direct din interfață.
 
-## 🖥️ Cerințe de Sistem
+🛠️ Instalare și Rulare
 
-* **Sistem de Operare:** Windows 10 sau Windows 11 (64-bit)
-* **Permisiuni:** Drepturi de Administrator (necesare pentru aplicarea tweak-urilor de sistem și execuția comenzilor WinGet)
+Opțiunea 1: Rulare din codul sursă
 
----
+Clonează repozitoriul:
 
-## 📥 Descărcare și Instalare
+git clone https://github.com/utilizator/vatrix.git
+cd vatrix
 
-1. Vizitează site-ul oficial: **[vatrixtweaker.lovable.app](https://vatrixtweaker.lovable.app)** sau mergi la secțiunea **Releases** din GitHub.
-2. Descarcă versiunea stabilă **v1.1**.
-3. Extrage arhiva și rulează executabilul cu drepturi de **Administrator** (`Run as Administrator`).
 
----
+Creează și activează un mediu virtual (opțional, dar recomandat):
 
-## 🛠️ Tehnologii Utilizate
+python -m venv venv
+# Pe Windows:
+venv\Scripts\activate
 
-* **Limbaj:** Python 3.x
-* **GUI Framework:** PySide6 (Qt for Python)
-* **Pachete & Unelte:** WinGet CLI, Windows Management Instrumentation (WMI), PowerShell scripts integration
 
----
+Instalează dependențele:
 
-## 📄 Licență
+pip install PySide6
 
-Acest proiect este distribuit sub licența **MIT**. Consultați fișierul `LICENSE` pentru mai multe detalii.
+
+Lansează aplicația:
+
+python main.py
+
+
+Opțiunea 2: Executabil (.exe)
+
+Descarcă ultima versiune compilată direct de pe pagina de Releases sau de pe itch.io.
+
+📜 Licență
+
+Acest proiect este licențiat sub termenii MIT LICENSE.
+
+MIT LICENSE
+
+Copyright (c) 2026 David
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
